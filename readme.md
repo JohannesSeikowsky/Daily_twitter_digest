@@ -1,0 +1,1 @@
+sending a daily digest of selected Twitter accounts to users in an Email.
